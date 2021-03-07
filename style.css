@@ -4,7 +4,6 @@
 	--f-size: 15;
 	--f-unit: 1vmin;
 	--f: calc(var(--f-size) * var(--f-unit));
-	--bg: #181717;
 }
 
 *, *::after, *::before {
