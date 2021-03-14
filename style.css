@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Bungee+Shade");
+@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
 
 :root {
 	--f-size: 15;
@@ -11,7 +11,7 @@
 }
 
 body {
-	font-family: 'Bungee Shade', cursive;
+	font-family: 'Syne Mono', monospace;
 	font-size: var(--f);
 	display: flex;
 	min-height: 100vh;
